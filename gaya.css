@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+}
+.nav-bar{
+    margin-top: 20px;
+    background: #ffffff;
+}
+.gambar1{
+    margin-left: 40px;
+}
+.nav-bar a{
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;   
+}
+.navsearch{
+    float: right;
+}
+.nav-bar input[type=text]{
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: 0,5px solid black;
+}
+.navsearch button{  
+    border: none;
+    cursor: pointer;
+    background-color: #9D78E1;
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+.navsearch button img{
+    width: 20px;
+}
+.content1{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+.gambar2{
+    margin-left: 200px;
+    height: 300px;
+}
+.produk{
+    margin-top:-px;
+    background-color:#CCB7F2;
+}
+.judul{
+    padding-top: 40px;
+    margin-left: 200px;
+}
+.kumpulan{
+    display: flex;
+    padding-top: 30px;
+    background-color:#CCB7F2;
+    padding-bottom: 30px;
+}
+.wew{
+    padding-top: 30px;
+    background-color: #ccb7f2;
+    padding-bottom: 30px;
+}
+.kartu1{
+    background: #ffffff;
+    height: 340px;
+    width: 190px;
+    margin-left: 200px;
+    border-radius: 15px;
+}
+.kartu1 .gambar3{
+    height: 190px;
+}
+.kartu1 .gambar4{
+    height: 20px;
+    padding-right: 20px;
+    float: right;
+    margin-top: 20px;
+}
+.kartu1 button{
+    color:white;
+    border: none;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #6A5397;
+}
+.kartu1 h6{
+    margin-left: 10px;
+}
+.kartu2{
+    background: #ffffff;
+    height: 340px;
+    width: 190px;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+.kartu2 .gambar3{
+    height: 190px;
+}
+.kartu2 .gambar4{
+    height: 20px;
+    padding-right: 20px;
+    float: right;
+    margin-top: 20px;
+}
+.kartu2 button{
+    color:white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #6A5397;
+}
+.kartu2 h6{
+    margin-left: 10px;
+}
+.footer{
+    background-color: #33264E;
+    padding-top: -10px;
+}
+.colek{
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.putih{
+    color: #ffffff;
+    margin-left: 10px;
+}
